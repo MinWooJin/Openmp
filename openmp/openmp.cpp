@@ -6,7 +6,7 @@
 #include <emmintrin.h>
 #include <vector>
 
-#define MAT_SIZE	400
+#define MAT_SIZE	2000
 
 using namespace std;
 
